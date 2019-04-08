@@ -1,0 +1,65 @@
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.10.18)  27 FEB 2019 19:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**sci.tex
+(./sci.tex
+pLaTeX2e <2018-07-28>+1 (based on LaTeX2e <2018-04-01> patch level 5)
+(/usr/local/texlive/2018/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2018/07/03 v1.8 Standard pLaTeX class
+\c@@paper=\count83
+(/usr/local/texlive/2018/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2018/07/03 v1.8 Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
+Package: bxcjkjatype 2016/10/15 v0.3
+
+
+/usr/local/texlive/2018/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty:57: Pa
+ckage bxcjkjatype Error: The engine in use is not supported.
+
+See the bxcjkjatype package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57     Package loading is aborted.}
+                                     
+? 
+/usr/local/texlive/2018/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty:57: Em
+ergency stop.
+ ...                                              
+                                                  
+l.57     Package loading is aborted.}
+                                     
+Only pdfTeX engine is supported.
+Package loading is aborted.
+
+ 
+Here is how much of TeX's memory you used:
+ 280 strings out of 493248
+ 3254 string characters out of 6144401
+ 65915 words of memory out of 5000000
+ 4327 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 22i,0n,20p,145b,35s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
